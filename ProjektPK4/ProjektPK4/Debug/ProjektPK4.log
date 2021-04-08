@@ -1,0 +1,17 @@
+﻿  Potwory.cpp
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(140): warning C4715: "PotworOgniowy::zwroc_nazwe_ataku”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(125): warning C4715: "PotworOgniowy::[Potwor]::zaatakuj”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(133): warning C4715: "PotworOgniowy::[Potwor]::zwroc_typ”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(147): warning C4715: "PotworOgniowy::zwroc_liczbe_uzyc”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(154): warning C4715: "PotworOgniowy::zwroc_sprite_ataku”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(183): warning C4715: "PotworTrawiasty::[Potwor]::zaatakuj”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(198): warning C4715: "PotworTrawiasty::zwroc_nazwe_ataku”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(212): warning C4715: "PotworTrawiasty::zwroc_sprite_ataku”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(191): warning C4715: "PotworTrawiasty::[Potwor]::zwroc_typ”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(205): warning C4715: "PotworTrawiasty::zwroc_liczbe_uzyc”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(241): warning C4715: "PotworWodny::[Potwor]::zaatakuj”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(257): warning C4715: "PotworWodny::zwroc_nazwe_ataku”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(264): warning C4715: "PotworWodny::zwroc_liczbe_uzyc”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(249): warning C4715: "PotworWodny::[Potwor]::zwroc_typ”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\ProjektPK4\Potwory.cpp(271): warning C4715: "PotworWodny::zwroc_sprite_ataku”: niewszystkie ścieżki kodu zwracają wartość
+  ProjektPK4.vcxproj -> C:\Users\aadam\Documents\GitHub\82733695-gr21-repo\Projekt\ProjektPK4\Debug\ProjektPK4.exe

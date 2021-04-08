@@ -1,0 +1,12 @@
+zabol, friend, water, frog.jpg, 50, skok, 10, armatka wodna, 20
+jaszczur, enemy, fire, lizard.jpg, 50, syczenie, 10, ogniowy oddech, 20
+korzennik, enemy, grass, root.jpg, 50, ostry lisc, 10, drzewna tarcza, 20
+osmiornik, enemy, water, octopus.jpg, 70, armatka wodna 20, atak mackami, 40
+ogniolew, enemy, fire, ogniolew.jpg, 70, drapanie, 30, sila ognia 40
+kamieniec, enemy, grass, kamieniec.jpg, 70, zgniatanie, 30, trzesienie ziemi, 40
+wodygrys, enemy, water, wodygrys.jpg, 100,  wodny ryk, 50, tsunami, 60
+smok, enemy, fire, smok.jpg, 100, latanie, 50, zioniecie ogniem, 60
+trawogoryl, grass, goryl.jpg, 100, uderzenie, 50, 
+skalnik, mix, grass, water
+rogacz, mix, water, fire
+hydra, mix, fire, grass
